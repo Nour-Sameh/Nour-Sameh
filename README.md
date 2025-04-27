@@ -16,7 +16,7 @@
 ---
 
 ### 🏆 Experience & Achievements:
-- **ECPC (Egyptian Collegiate Programming Contest) Participant**
+- **ECPC (Egyptian Collegiate Programming Contest) finalist**
   - Participated in a prestigious programming competition, solving complex coding challenges under time constraints.
   - Strengthened algorithmic thinking and teamwork skills.
 
