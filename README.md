@@ -1,14 +1,14 @@
 ### Hi there, I'm Nour Sameh! 👋
 
-🚀 **Aspiring Software Engineer | Cybersecurity & Data Science Enthusiast | Problem Solver**
+🚀 **Aspiring Software Engineer | Interested in Data Science  | Problem Solver**
 
 ---
 
 ### 🌟 About Me:
+- ✨ **I am passionate about learning everything and constantly expanding my skills in different fields**.
 - 🎓 **Second-year Computer Science Student at Ain Shams University (2023 - 2027)**
 - 💻 Passionate about **Web Development, Cybersecurity & Data Science**
-- 🏆 **ECPC Participant | Competitive Programmer | GDG on Campus Member**
-- 🔐 **Cybersecurity Bootcamp Graduate | CTF Player**
+- 🏆 **ECPC finalist | Competitive Programmer | GDG on Campus Member**
 - 📊 **Data Science Bootcamp Graduate (Python, Pandas, NumPy, Power BI, ML)**
 - 🌱 Currently improving my skills in **SQL, Machine Learning & Advanced Web Development**
 - 📚 **Strong problem-solving, teamwork, and analytical skills**
@@ -19,10 +19,6 @@
 - **ECPC (Egyptian Collegiate Programming Contest) Participant**
   - Participated in a prestigious programming competition, solving complex coding challenges under time constraints.
   - Strengthened algorithmic thinking and teamwork skills.
-
-- **Cybersecurity Bootcamp Graduate**
-  - Hands-on experience in **ethical hacking, penetration testing, network security** using Kali Linux, Wireshark, and Metasploit.
-  - Participated in **CTF challenges**, enhancing problem-solving and security analysis expertise.
 
 - **Data Science Bootcamp Graduate**
   - Analyzed real-world datasets using **Python, Pandas, and NumPy**.
@@ -38,6 +34,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 **Tools & Platforms:**
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
